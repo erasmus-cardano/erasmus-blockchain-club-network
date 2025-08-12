@@ -39,6 +39,22 @@ In planning and early outreach to student club leaders across Europe.
 ## 🌍 License
 All content is released under the [MIT License](LICENSE).
 
+<p align="center">
+  <img src="banner.png" alt="Erasmus Blockchain Club Network Banner" width="800">
+</p>
+
+<h1 align="center">Erasmus Blockchain Club Network</h1>
+<p align="center">
+  Online hub linking Cardano student clubs across EU universities
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-planning-yellow" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Catalyst-Fund14-orange" alt="Catalyst Fund"></a>
+</p>
+
+
 ---
 
 ## 📫 Contact
